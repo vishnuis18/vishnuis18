@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vishnu
+# Hi there 👋, I'm Vishnu Irappa Sangammanavar
 
 🎓 Computer Science Engineering student  
 💻 Interested in Web Development, AI, and DSA  
