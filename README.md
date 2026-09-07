@@ -10,6 +10,14 @@
 <br/>
 
 <p align="center">
+  <a href="https://vishnu21.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1H_tA4dpXtifIm5RCT636yzcjDgoBYSZv/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-E11D48?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vishnu-irappa-sangammanavar-b6780328a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -43,6 +51,25 @@
 - 🤝 **Leadership & Volunteering:** Event Management Team Member at **Microsoft Club, VIT Bhopal** (organized 10+ tech events/workshops) & active volunteer across campus initiatives.
 - 🎯 **Career Goals:** Actively seeking Software Engineering & Full-Stack Developer internships to build impactful digital solutions.
 - 🌱 **Philosophy:** *"Consistency beats motivation 🚀"*
+
+---
+
+### 💼 Portfolio & Resume
+
+- 🌐 **Interactive Portfolio Website:** Explore my projects, live demos, and technical journey at [**vishnu21.vercel.app**](https://vishnu21.vercel.app/)  
+  <br/>
+  <a href="https://vishnu21.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-vishnu21.vercel.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio" />
+  </a>
+
+<br/>
+<br/>
+
+- 📄 **Curriculum Vitae / Resume:** View my verified academic credentials (VIT B.Tech CSE, CGPA: 8.93), skills, and project experience on [**Google Drive**](https://drive.google.com/file/d/1H_tA4dpXtifIm5RCT636yzcjDgoBYSZv/view?usp=drive_link)  
+  <br/>
+  <a href="https://drive.google.com/file/d/1H_tA4dpXtifIm5RCT636yzcjDgoBYSZv/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-Google_Drive-E11D48?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume" />
+  </a>
 
 ---
 
@@ -171,8 +198,16 @@
 <br/>
 
 <p align="center">
+  <a href="https://vishnu21.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-vishnu21.vercel.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1H_tA4dpXtifIm5RCT636yzcjDgoBYSZv/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Google_Drive-E11D48?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:vishnuirappasangammanavar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-vishnuirappasangammanavar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vishnu" />
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vishnu" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vishnu-irappa-sangammanavar-b6780328a/" target="_blank">
