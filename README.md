@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Vishnu Irappa Sangammanavar
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;B.Tech+CSE+%40+VIT+(CGPA%3A+8.93%2F10);Next.js+%7C+React.js+%7C+TypeScript+%7C+Node.js;Competitive+Programmer+(220%2B+DSA+Problems+Solved);Building+Scalable+Modern+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
