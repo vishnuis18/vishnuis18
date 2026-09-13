@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1H_tA4dpXtifIm5RCT636yzcjDgoBYSZv/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/13nfQXXmiuGYvqBxob7_u--vf4A2ZA8x9/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-E11D48?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
   &nbsp;&nbsp;
@@ -65,9 +65,9 @@
 <br/>
 <br/>
 
-- 📄 **Curriculum Vitae / Resume:** View my verified academic credentials (VIT B.Tech CSE, CGPA: 8.93), skills, and project experience on [**Google Drive**](https://drive.google.com/file/d/1H_tA4dpXtifIm5RCT636yzcjDgoBYSZv/view?usp=drive_link)  
+- 📄 **Curriculum Vitae / Resume:** View my verified academic credentials (VIT B.Tech CSE, CGPA: 8.93), skills, and project experience on [**Google Drive**](https://drive.google.com/file/d/13nfQXXmiuGYvqBxob7_u--vf4A2ZA8x9/view)  
   <br/>
-  <a href="https://drive.google.com/file/d/1H_tA4dpXtifIm5RCT636yzcjDgoBYSZv/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/13nfQXXmiuGYvqBxob7_u--vf4A2ZA8x9/view" target="_blank">
     <img src="https://img.shields.io/badge/View_Resume-Google_Drive-E11D48?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume" />
   </a>
 
@@ -202,7 +202,7 @@
     <img src="https://img.shields.io/badge/Portfolio-vishnu21.vercel.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1H_tA4dpXtifIm5RCT636yzcjDgoBYSZv/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/13nfQXXmiuGYvqBxob7_u--vf4A2ZA8x9/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Google_Drive-E11D48?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
