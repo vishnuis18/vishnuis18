@@ -7,14 +7,13 @@
 </a>
 
 <br/>
-<br/>
 
 <p align="center">
   <a href="https://vishnu21.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/13nfQXXmiuGYvqBxob7_u--vf4A2ZA8x9/view" target="_blank">
+  <a href="https://drive.google.com/file/d/15fR-Pgw3e_4wECP-H7l6VvtyBhmcETBb/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-E11D48?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
   &nbsp;&nbsp;
@@ -54,28 +53,59 @@
 
 ---
 
-### 💼 Portfolio & Resume
+### 💼 Work Experience
 
-- 🌐 **Interactive Portfolio Website:** Explore my projects, live demos, and technical journey at [**vishnu21.vercel.app**](https://vishnu21.vercel.app/)  
-  <br/>
-  <a href="https://vishnu21.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-vishnu21.vercel.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio" />
+#### 🏢 [Trakto Technologies](https://app.trakto.tech/admin/crm) `Internship`
+**Software Development Intern** • *Jun 2024 – Aug 2024*
+
+<p>
+  <a href="https://app.trakto.tech/admin/crm" target="_blank">
+    <img src="https://img.shields.io/badge/CRM_Dashboard-EA580C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CRM Dashboard" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1qXIbbUi9Vhf61CQHTE0-_4q7rQCdxW8Q/view" target="_blank">
+    <img src="https://img.shields.io/badge/Certificate-2563EB?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificate" />
+  </a>
+</p>
+
+- Developed a **CRM dashboard module** for a manufacturing ERP system to streamline lead management, sales tracking, and customer relationship management.
+- Designed CRM workflows for **lead tracking, opportunities, follow-ups**, activities, and the **Quote-to-Sales-Order process**.
+- Worked on **role-based dashboards** and **sales analytics** to track pipeline value, conversion rates, and stage-wise drop-offs.
+
+---
+
+### 🚀 Featured Projects
+
+#### 🛒 [YBT Digital – Digital Product Marketplace](https://github.com/vishnuis18/YBT-digital-platform)
+> 🌐 **Live Demo:** [ybt-digital-platform.vercel.app](https://ybt-digital-platform.vercel.app/)  
+> 🛠️ **Technologies:** `Next.js` • `TypeScript` • `MongoDB` • `Mongoose` • `Tailwind CSS` • `Stripe` • `Razorpay`
+
+- Architected an end-to-end full-stack marketplace with 10+ core modules including product discovery, live search & filtering, coupon system, checkout, invoices, and secure downloads.
+- Implemented a role-based admin suite supporting 3 user roles and 10+ database models for granular sales analytics, order management, and product catalogs.
+- Integrated multiple payment gateways (Stripe & Razorpay) with authentication and responsive dark/light UI themes.
 
 <br/>
+
+#### 🛡️ [Defense Command Dashboard](https://github.com/vishnuis18/indian-army-integrated-defence-portal)
+> 🌐 **Live Demo:** [defenceportal.vercel.app](https://defenceportal.vercel.app/)  
+> 🛠️ **Technologies:** `HTML5` • `CSS3` • `JavaScript` • `React.js` • `Chart.js`
+
+- Designed an interactive military-inspired command center portal with 7 navigation sections and 4 data telemetry visualization panels for status tracking.
+- Developed modular React components with Chart.js to power navigation, dynamic theme switching, and fluid layouts adapting across screen sizes.
+
 <br/>
 
-- 📄 **Curriculum Vitae / Resume:** View my verified academic credentials (VIT B.Tech CSE, CGPA: 8.93), skills, and project experience on [**Google Drive**](https://drive.google.com/file/d/13nfQXXmiuGYvqBxob7_u--vf4A2ZA8x9/view)  
-  <br/>
-  <a href="https://drive.google.com/file/d/13nfQXXmiuGYvqBxob7_u--vf4A2ZA8x9/view" target="_blank">
-    <img src="https://img.shields.io/badge/View_Resume-Google_Drive-E11D48?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume" />
-  </a>
+#### 🌾 [Gramin Seva – Complaint Management System](https://github.com/vishnuis18/Gramin-Seva)
+> 🌐 **Live Demo:** [gramin-seva-mu.vercel.app](https://gramin-seva-mu.vercel.app/)  
+> 🛠️ **Technologies:** `React.js` • `MongoDB` • `JavaScript` • `REST API` • `Tailwind CSS`
+
+- Developed a community complaint resolution platform supporting 2 user roles across submission, tracking, and administration with a 3-stage lifecycle (*Pending ➔ In Progress ➔ Resolved*).
+- Engineered role-based REST APIs connecting the React frontend to MongoDB for secure complaint storage and status updates.
+- Optimized UI performance with Tailwind CSS for low-bandwidth rural connectivity.
 
 ---
 
 ### 💻 Tech Stack & Tools
-
-<br/>
 
 **Languages**  
 <p>
@@ -116,47 +146,21 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<br/>
-
-#### 🛒 [YBT Digital – Digital Product Marketplace](https://github.com/vishnuis18)
-> **Technologies:** `Next.js` • `TypeScript` • `MongoDB` • `Mongoose` • `Tailwind CSS` • `Stripe` • `Razorpay`
-- Architected an end-to-end full-stack marketplace with 10+ core modules including product discovery, live search & filtering, coupon system, checkout, invoices, and secure downloads.
-- Implemented a role-based admin suite supporting 3 user roles and 10+ database models for granular sales analytics, order management, and product catalogs.
-- Integrated multiple payment gateways (Stripe & Razorpay) with authentication and responsive dark/light UI themes.
-
-<br/>
-
-#### 🛡️ [Defense Command Dashboard](https://github.com/vishnuis18)
-> **Technologies:** `HTML5` • `CSS3` • `JavaScript` • `React.js` • `Chart.js`
-- Designed an interactive military-inspired command center portal with 7 navigation sections and 4 data telemetry visualization panels for status tracking.
-- Developed modular React components with Chart.js to power navigation, dynamic theme switching, and fluid layouts adapting across screen sizes.
-
-<br/>
-
-#### 🌾 [Gramin Seva – Complaint Management System](https://github.com/vishnuis18)
-> **Technologies:** `React.js` • `MongoDB` • `JavaScript` • `REST API` • `Tailwind CSS`
-- Developed a community complaint resolution platform supporting 2 user roles across submission, tracking, and administration with a 3-stage lifecycle (*Pending ➔ In Progress ➔ Resolved*).
-- Engineered role-based REST APIs connecting the React frontend to MongoDB for secure complaint storage and status updates.
-- Optimized UI performance with Tailwind CSS for low-bandwidth rural connectivity.
-
----
-
 ### ⚡ Competitive Programming & Coding Profiles
 
 - 🧩 **Problem Solving:** Solved **220+ DSA problems** across LeetCode & GeeksforGeeks, with core strength in Dynamic Programming, Graph Theory, and Recursion.
-- 🌐 **Coding Profiles:**
-  <br/>
-  <p>
-    <a href="https://leetcode.com/u/vishnuis21/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-vishnuis21-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://codeforces.com/profile/Vishnu_I_S" target="_blank">
-      <img src="https://img.shields.io/badge/Codeforces-Vishnu__I__S-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
-    </a>
-  </p>
+
+<br/>
+
+<p align="center">
+  <a href="https://leetcode.com/u/vishnuis21/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-vishnuis21-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/Vishnu_I_S" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Vishnu__I__S-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
+</p>
 
 ---
 
@@ -166,20 +170,16 @@
 - 🤖 **NPTEL:** *Introduction to Machine Learning*
 - 💻 **Microsoft:** *MLSA Backend Development Bootcamp*
 - 🏢 **ServiceNow:** *Virtual Internship Program*
-- 🎪 **Microsoft Club, VIT Bhopal:** Organized 10+ events, technical workshops, and guest lectures (boosted participation by ~20%)
+- 🎪 **Microsoft Club, VIT Bhopal:** Organized 10+ technical events/workshops (boosted participation by ~20%)
 - 🌟 **Campus Leadership:** Drove 5+ campus initiatives collaborating across cross-functional student teams
 
 ---
 
 ### 📊 GitHub Activity & Stats
 
-<br/>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vishnuis18&theme=tokyonight&hide_border=true&background=0D1117" alt="Vishnu's GitHub Streak" />
 </p>
-
-<br/>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=vishnuis18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Vishnu's GitHub Stats" />
@@ -189,33 +189,33 @@
 
 ---
 
-<br/>
-
 <div align="center">
 
-<p><i>📫 Let's connect! Feel free to reach out for collaborations or opportunities:</i></p>
-
-<br/>
+<h3>📫 Let's Connect</h3>
+<p><i>Open to software engineering internships, collaborative development, and full-stack opportunities.</i></p>
 
 <p align="center">
   <a href="https://vishnu21.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-vishnu21.vercel.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/13nfQXXmiuGYvqBxob7_u--vf4A2ZA8x9/view" target="_blank">
+  &nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/15fR-Pgw3e_4wECP-H7l6VvtyBhmcETBb/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Google_Drive-E11D48?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:vishnuirappasangammanavar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vishnu" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vishnu-irappa-sangammanavar-b6780328a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vishnu%20I%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Vishnu" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/vishnuis18" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-vishnuis18-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Vishnu" />
+  </a>
 </p>
 
-<br/>
 <br/>
 
 <a href="https://visitcount.itsvg.in">
