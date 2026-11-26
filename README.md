@@ -56,7 +56,7 @@
 ### 💼 Work Experience
 
 #### 🏢 [Trakto Technologies](https://app.trakto.tech/admin/crm) `Internship`
-**Software Development Intern** • *Jun 2024 – Aug 2024*
+**Software Development Intern** • *Jun 2026 – Aug 2026*
 
 <p>
   <a href="https://app.trakto.tech/admin/crm" target="_blank">
