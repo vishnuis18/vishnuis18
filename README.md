@@ -46,7 +46,7 @@
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering at **Vellore Institute of Technology (VIT)** *(2023 – 2027)* • **CGPA: 8.97 / 10.0**
 - 💻 **Full-Stack Development:** Architecting responsive, end-to-end web applications using **Next.js, React.js, TypeScript, Node.js, Express.js, and MongoDB**.
-- 🧩 **Data Structures & Algorithms:** Solved **220+ DSA problems** across LeetCode and GeeksforGeeks, specializing in Dynamic Programming, Graph Theory, and Recursion.
+- 🧩 **Data Structures & Algorithms:** Solved **250+ DSA problems** across LeetCode and GeeksforGeeks, specializing in Dynamic Programming, Graph Theory, and Recursion.
 - 🤝 **Leadership & Volunteering:** Event Management Team Member at **Microsoft Club, VIT Bhopal** (organized 10+ tech events/workshops) & active volunteer across campus initiatives.
 - 🎯 **Career Goals:** Actively seeking Software Engineering & Full-Stack Developer internships to build impactful digital solutions.
 - 🌱 **Philosophy:** *"Consistency beats motivation 🚀"*
@@ -148,7 +148,7 @@
 
 ### ⚡ Competitive Programming & Coding Profiles
 
-- 🧩 **Problem Solving:** Solved **220+ DSA problems** across LeetCode & GeeksforGeeks, with core strength in Dynamic Programming, Graph Theory, and Recursion.
+- 🧩 **Problem Solving:** Solved **250+ DSA problems** across LeetCode & GeeksforGeeks, with core strength in Dynamic Programming, Graph Theory, and Recursion.
 
 <br/>
 
