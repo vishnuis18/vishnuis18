@@ -174,7 +174,7 @@
 - 🌟 **Campus Leadership:** Drove 5+ campus initiatives collaborating across cross-functional student teams
 
 ---
-
+<!--
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
@@ -186,7 +186,7 @@
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vishnuis18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
-
+-->
 ---
 
 <div align="center">
